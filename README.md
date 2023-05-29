@@ -1,7 +1,7 @@
 # **Cluster by Store of US Regional Sales Data**
 
 ## Project Overview
-The project has been done for Group Final Project by RevoU. Inspired by [US Regional Sales Data](https://data.world/dataman-udit/us-regional-sales-data), we did the data exploration to find out the problem, analyze root cause, and generate insights and recommendations. As a group project, my tasks were being a Data Analyst to discover the problem, explore the data, and generate insights, as well as create a deck storyline and design. When explored the data, I did Cohort Analysis and Cluster Analysis.
+The project has been done for Group Final Project by RevoU. Inspired by [US Regional Sales Data](https://data.world/dataman-udit/us-regional-sales-data), we did the data exploration to find out the problem, analyze root cause, and generate insights and recommendations. US Regional Sales Data is a dummy data that provide sales data in each region of a home decor company. As a group project, my tasks were being a Data Analyst to discover the problem, explore the data, and generate insights, as well as create a deck storyline and design. When explored the data, I did Cohort Analysis and Cluster Analysis.
 
 ## Project Summary
 From the data exploration, we found that there is a stagnant profit (+0.12%) in 2020 due to the significantly decreased sales in some stores, where 56 stores need improvement. Segmentation by store is really needed to make a targeted activity based on cluster characteristics. With K-Means clustering, we have 3 clusters that have a different characteristics on its profit, order, and total stores. By using the segmentation and product recommendation on each cluster, there will be up to 35% profit increased with $1.24M expected income if there will be 1-2 orders increased in each store.
@@ -14,7 +14,7 @@ From the data exploration, we found that there is a stagnant profit (+0.12%) in 
 2. Discover the problem
 3. Create a root cause hypothesis
 4. Create a problem statement and analytical objective
-5. Exploratory data analysis with data visualization
+5. Exploratory data analysis and data visualization
 6. Cohort analysis to understand customer behavior
 7. Cluster analysis by using K-Means Clustering to understand store characteristics
 8. Product recommendation
