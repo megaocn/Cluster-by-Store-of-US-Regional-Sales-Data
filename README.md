@@ -23,4 +23,3 @@ From the data exploration, we found that there is a stagnant profit (+0.12%) in 
 1. [Spreadsheet](https://docs.google.com/spreadsheets/d/1cMZ7OSDl1BW9k_8cXEC1uKczAmX1lxEb5YR57lK168A/edit#gid=997216846)<br>
 2. [SQL](https://console.cloud.google.com/bigquery?sq=113264810651:e78b5e323c9d4d4bb2f89c9b53388189&project=fresh-electron-377104&ws=!1m4!1m3!8m2!1s113264810651!2se78b5e323c9d4d4bb2f89c9b53388189) <br>
 3. [Python](https://colab.research.google.com/drive/1wAEOmFWuJwVWXh5gCqvTqsVs9o3-4YDL#scrollTo=BLfKG2bXK5ao) <br>
-4. [Tableau](https://public.tableau.com/app/profile/ifan.rahmadan/viz/OCommerceSummary/Dashboard1)
